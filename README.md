@@ -5,7 +5,7 @@ The official snippets for gengo.js http://www.gengojs.com/
 
 ###Package Control:
 
-The easiest way to install gengo.js snippets is through [Package Control](https://packagecontrol.io/installation).  Once you install Package Control, restart Sublime Text 2(3) and open the Command Palette (Command+Shift+P on OS X, Ctrl+Shift+P on Linux/Windows). Select `Package Control: Install Package`, then search and select `Gengojs`. Once intstalled, Package Control will keep you up to date whenever a new version is released.
+The easiest way to install gengo.js snippets is through [Package Control](https://packagecontrol.io/installation).  Once you install Package Control, restart Sublime Text 2(3) and open the Command Palette (`Command+Shift+P` on OS X, `Ctrl+Shift+P` on Linux/Windows). Select `Package Control: Install Package`, then search and select `Gengojs`. Once intstalled, Package Control will keep you up to date whenever a new version is released.
 
 ###GitHub:
 
@@ -15,7 +15,7 @@ Download the latest source from [GitHub](https://github.com/iwatakeshi/gengojs-s
 
 Clone the repository in your Sublime Text `Packages/User` directory:
 
-git clone https://github.com/iwatakeshi/gengojs-sublime-snippets.git
+git clone `https://github.com/iwatakeshi/gengojs-sublime-snippets.git`
 The `Packages` directory is located at:
 
 OS X:
