@@ -32,7 +32,7 @@ Portable version:
 
 Just type:
 
-```jade
+```
 __(      -->    __(phrase, [arguments)
 __l      -->    __l("locale")
 __date   -->    __l("locale").date(options).format(date)
