@@ -1,5 +1,6 @@
 # gengojs-sublime-snippets
-The official snippets for gengo.js http://www.gengojs.com/
+
+The official snippets for gengo.js http://www.gengojs.com/ 
 
 ##Install
 
@@ -21,9 +22,11 @@ The `Packages` directory is located at:
 OS X:
 
 `~/Library/Application Support/Sublime Text 2(3)/Packages/User`
+
 Windows:
 
 `%APPDATA%\Sublime Text 2(3)\Packages\User`
+
 Portable version:
 
 `Sublime Text 2(3)\Data\Packages\User\Gengojs`
