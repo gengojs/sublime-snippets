@@ -17,6 +17,7 @@ Download the latest source from [GitHub](https://github.com/iwatakeshi/gengojs-s
 Clone the repository in your Sublime Text `Packages/User` directory:
 
 git clone `https://github.com/iwatakeshi/gengojs-sublime-snippets.git`
+
 The `Packages` directory is located at:
 
 OS X:
