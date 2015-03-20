@@ -43,4 +43,4 @@ __moment -->    __l("locale").moment(string)
 
 or open the Command Palette, type `gengo` and select the desired snippet.
 
-Currently, the snippet works in Jade (`.jade`) and Handlebars (`.hbs`). To add support for your favorite template, just fork and pull! - Happy Coding
+Currently, the snippet works in Jade (`.jade`) and Handlebars (`.hbs`). To add support for your favorite template, just fork and pull!
