@@ -36,7 +36,7 @@ Portable version:
 Just type:
 
 ```
-__(      -->    __(phrase, [arguments)
+__(      -->    __(phrase, [arguments])
 __l      -->    __l("locale")
 __date   -->    __l("locale").date(options).format(date)
 __time   -->    __l("locale").time(options).format(time)
